@@ -1,0 +1,4 @@
+dotnet new mvc -n ashw_quiz4_dotnet
+cd ashw_quiz4_dotnet
+git init
+git remote add origin https://github.com/YOUR_USERNAME/ashw_quiz4_dotnet.git
